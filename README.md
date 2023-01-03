@@ -1,3 +1,3 @@
 # Tester
 
-Um estudando buscando conhecimento 
+Um estudante buscando conhecimento 
